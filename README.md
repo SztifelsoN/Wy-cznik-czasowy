@@ -28,7 +28,7 @@ Ponieważ plik `.exe` został skompilowany niezależnie i nie posiada płatnego 
 **Jak uruchomić program:**
 1. Kliknij napis **Więcej informacji** w oknie ostrzeżenia.
 2. Kliknij przycisk **Uruchom mimo to**.
-*(Aplikacja jest w 100% bezpieczna, cały jej kod źródłowy możesz przejrzeć w pliku `Wylacznik.cs`).*
+*(Aplikacja jest w 100% bezpieczna, cały jej kod źródłowy możesz przejrzeć w pliku `Wyłącznik czasowy.cs`).*
 
 ---
 
@@ -40,4 +40,4 @@ Jeśli wolisz skompilować program samodzielnie na swoim komputerze:
 2. Otwórz Wiersz Poleceń (CMD) i wykonaj poniższą komendę:
 
 ```cmd
-C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /target:winexe /out:"Wylacznik.exe" "Wylacznik.cs"<img width="780" height="609" alt="Zrzut ekranu 2026-09-05 231916" src="https://github.com/user-attachments/assets/aea30cc9-d55c-413e-845a-65a0e96e7d4e" />
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /target:winexe /out:"Wyłącznik czasowy.exe" "Wyłącznik czasowy.cs"
