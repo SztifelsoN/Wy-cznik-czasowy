@@ -2,7 +2,7 @@
 
 Prosta, lekka i natywna aplikacja okienkowa dla systemu Windows, pozwalająca na zaplanowanie automatycznego wyłączenia komputera po określonym czasie (w minutach) oraz łatwe anulowanie odliczania.
 
-![Wygląd aplikacji](231916.png) <!-- Zastąp ten link własnym zrzutem ekranu -->
+![Wygląd aplikacji](1.png) <!-- Zastąp ten link własnym zrzutem ekranu -->
 
 ## 🌟 Funkcje
 
