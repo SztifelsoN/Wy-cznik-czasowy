@@ -16,7 +16,7 @@ Prosta, lekka i natywna aplikacja okienkowa dla systemu Windows, pozwalająca na
 
 ## 📥 Pobieranie
 
-Przejdź do sekcji **[Releases](../../releases)** i pobierz najnowszą wersję pliku `Wylacznik.exe`.
+Przejdź do sekcji **[Releases](../../releases)** i pobierz najnowszą wersję pliku `Wyłącznik czasowy.exe`.
 
 ---
 
